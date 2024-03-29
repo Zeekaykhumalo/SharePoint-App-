@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceProvider.d.ts","sourceRoot":"","sources":["../src/ServiceProvider.ts"],"names":[],"mappings":"AAMA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAG5D,qBAAa,eAAe;IAC3B,OAAO,CAAC,SAAS,CAAiB;gBACf,OAAO,EAAE,cAAc;IAG1C,OAAO,CAAC,0BAA0B,CAwBhC;IAEW,UAAU,IAAI,OAAO,CAAC,GAAG,CAAC;CAWvC"}
